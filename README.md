@@ -11,4 +11,5 @@
 - Open xlsx file saved above
 - Adjust settings as needed
 - Click Run to show results
-note:Certain functionalities (e.g., `ctypes.windll`) are not supported on Linux or other non-Windows platforms. Users running the software on non-Windows systems may need to comment out or modify the relevant code sections.
+## Note :
+- Certain functionalities (e.g., `ctypes.windll`) are not supported on Linux or other non-Windows platforms. Users running the software on non-Windows systems may need to comment out or modify the relevant code sections.
